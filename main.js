@@ -1,5 +1,13 @@
 const greetings = require("./greeting.js");
 
+
 greetings.greetingEnglish();
 
-greetings.greetingJapanese(); 
+
+greetings.greetingJapanese();
+
+greetings.greetingSpanish();
+
+greetings.greetingIcelandic();
+
+greetings.greetingFrench();
