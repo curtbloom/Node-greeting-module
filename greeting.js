@@ -13,7 +13,3 @@ exports.greetingSpanish = function (){
 exports.greetingIcelandic = function (){
   console.log("Hallo")
 }
-
-exports.greetingFrench = function(){
-  console.log("Bonjour")
-}
